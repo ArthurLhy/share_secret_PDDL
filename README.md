@@ -5,6 +5,3 @@ share_secret_domain.pddl contains a skeleton for the domain file for tasks 1 and
 
 share_secret_task[X]_problem.pddl contains skeleton for the problem files.
 
-Only these file PDDL files will be marked for the assignment. Any other files created will be ignored, so you are free to create new models to experiment.
-
-The main branch will be cloned on the due date for marking.
